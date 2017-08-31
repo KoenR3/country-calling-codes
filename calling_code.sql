@@ -203,7 +203,7 @@ INSERT INTO `calling_code` (`iso`, `name`, `nicename`, `iso3`, `numcode`, `phone
 ( 'TT', 'TRINIDAD AND TOBAGO', 'Trinidad and Tobago', 'TTO', 780, 1868),
 ( 'TN', 'TUNISIA', 'Tunisia', 'TUN', 788, 216),
 ( 'TR', 'TURKEY', 'Turkey', 'TUR', 792, 90),
-( 'TM', 'TURKMENISTAN', 'Turkmenistan', 'TKM', 795, 7370),
+( 'TM', 'TURKMENISTAN', 'Turkmenistan', 'TKM', 795, 993),
 ( 'TC', 'TURKS AND CAICOS ISLANDS', 'Turks and Caicos Islands', 'TCA', 796, 1649),
 ( 'TV', 'TUVALU', 'Tuvalu', 'TUV', 798, 688),
 ( 'UG', 'UGANDA', 'Uganda', 'UGA', 800, 256),

@@ -231,7 +231,7 @@ INSERT INTO `country` (`id`, `iso`, `name`, `nicename`, `iso3`, `numcode`, `phon
 (NULL, 'TT', 'TRINIDAD AND TOBAGO', 'Trinidad and Tobago', 'TTO', 780, 1868),
 (NULL, 'TN', 'TUNISIA', 'Tunisia', 'TUN', 788, 216),
 (NULL, 'TR', 'TURKEY', 'Turkey', 'TUR', 792, 90),
-(NULL, 'TM', 'TURKMENISTAN', 'Turkmenistan', 'TKM', 795, 7370),
+(NULL, 'TM', 'TURKMENISTAN', 'Turkmenistan', 'TKM', 795, 993),
 (NULL, 'TC', 'TURKS AND CAICOS ISLANDS', 'Turks and Caicos Islands', 'TCA', 796, 1649),
 (NULL, 'TV', 'TUVALU', 'Tuvalu', 'TUV', 798, 688),
 (NULL, 'UG', 'UGANDA', 'Uganda', 'UGA', 800, 256),
